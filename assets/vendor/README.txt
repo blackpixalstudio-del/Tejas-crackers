@@ -1,0 +1,1 @@
+OPTIONAL: for Excel import/export with no internet, download xlsx.full.min.js (SheetJS 0.18.5) and save it in this folder with exactly that name. The app uses it automatically; otherwise it loads it from the internet.
